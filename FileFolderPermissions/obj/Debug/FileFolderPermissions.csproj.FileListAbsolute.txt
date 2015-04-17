@@ -1,0 +1,13 @@
+c:\users\tuschl\documents\visual studio 2013\Projects\FileFolderPermissions\FileFolderPermissions\bin\Debug\FileFolderPermissions.exe.config
+c:\users\tuschl\documents\visual studio 2013\Projects\FileFolderPermissions\FileFolderPermissions\bin\Debug\FileFolderPermissions.exe
+c:\users\tuschl\documents\visual studio 2013\Projects\FileFolderPermissions\FileFolderPermissions\bin\Debug\FileFolderPermissions.pdb
+c:\users\tuschl\documents\visual studio 2013\Projects\FileFolderPermissions\FileFolderPermissions\obj\Debug\FileFolderPermissions.csprojResolveAssemblyReference.cache
+c:\users\tuschl\documents\visual studio 2013\Projects\FileFolderPermissions\FileFolderPermissions\obj\Debug\MainWindow.baml
+c:\users\tuschl\documents\visual studio 2013\Projects\FileFolderPermissions\FileFolderPermissions\obj\Debug\MainWindow.g.cs
+c:\users\tuschl\documents\visual studio 2013\Projects\FileFolderPermissions\FileFolderPermissions\obj\Debug\App.g.cs
+c:\users\tuschl\documents\visual studio 2013\Projects\FileFolderPermissions\FileFolderPermissions\obj\Debug\FileFolderPermissions_MarkupCompile.cache
+c:\users\tuschl\documents\visual studio 2013\Projects\FileFolderPermissions\FileFolderPermissions\obj\Debug\FileFolderPermissions.g.resources
+c:\users\tuschl\documents\visual studio 2013\Projects\FileFolderPermissions\FileFolderPermissions\obj\Debug\FileFolderPermissions.Properties.Resources.resources
+c:\users\tuschl\documents\visual studio 2013\Projects\FileFolderPermissions\FileFolderPermissions\obj\Debug\FileFolderPermissions.csproj.GenerateResource.Cache
+c:\users\tuschl\documents\visual studio 2013\Projects\FileFolderPermissions\FileFolderPermissions\obj\Debug\FileFolderPermissions.exe
+c:\users\tuschl\documents\visual studio 2013\Projects\FileFolderPermissions\FileFolderPermissions\obj\Debug\FileFolderPermissions.pdb
