@@ -85,6 +85,8 @@ namespace FileFolderPermissions
             return true;
         }
 
+        // Checks if currently logged on user has access to a certain folder
+        // Gets the folder path as argument
         private bool hasAccess(string path)
         {
             bool readAllow = false;
@@ -153,19 +155,19 @@ namespace FileFolderPermissions
             {
                 using (System.IO.StreamWriter file = new System.IO.StreamWriter(@LogPath + "\\log.html", true))
                 {
-                    if (userName.Contains("NTDOMAIN"))
-                    {
+                   // if (userName.Contains("NTDOMAIN"))
+                    //{
                         file.WriteLine(userName + " : " + userAccessType + " : " + userRights + " : " + ruleSource + " : " + rulePropagation + " : " + ruleInheritance + "<br/>");
-                    }
+                    //}
                 }
             }
             else
             {
-                if (userName.Contains("NTDOMAIN"))
-                {
+                //if (userName.Contains("NTDOMAIN"))
+                //{
                     System.IO.File.WriteAllText(@LogPath + "\\log.html", (userName + " : " + userAccessType + " : " + userRights 
                                                 + " : " + ruleSource + " : " + rulePropagation + " : " + ruleInheritance + "<br/>"));
-                }
+                //}
             }
         }
     }
